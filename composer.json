@@ -1,0 +1,5 @@
+{
+    "require": {
+        "packaged/figlet": "^0.0.2"
+    }
+}
