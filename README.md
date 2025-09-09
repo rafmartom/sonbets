@@ -5,10 +5,6 @@ Keep track of your sport bets everywhere
 
 ## Usage Example
 
+Check updated usage via CLI
 ```
-# Via CLI Handlers
-
-# Via Library directly
-
-```
-
+./sonbets.php 

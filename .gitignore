@@ -6,7 +6,7 @@ composer.phar
 ## LLM input
 .prompt.md
 .response.md
-.history.md
+.history*.md
 
 ## PHPDocumentor
 docs/

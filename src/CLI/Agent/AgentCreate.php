@@ -19,7 +19,7 @@ use App\Model\Agent;
  * output a JSON object representing the newly created agent.
  *
  * Usage Example:
- *   ./sonbets.php agent:create --name="John" --familyName="Doe" --email="john.doe@example.com"
+ *   ./sonbets.php agent:create --name="John" --family-name="Doe" --uid=003 --nick-name="jDoe" --email="john.doe@example.com"
  */
 #[AsCommand(
     name: 'agent:create',

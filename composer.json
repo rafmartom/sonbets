@@ -15,5 +15,8 @@
             "name": "rafmartom",
             "email": "rafmartom@gmail.com"
         }
-    ]
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.3"
+    }
 }
